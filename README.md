@@ -1,2 +1,2 @@
 # Bar-Chart-Animator
-An algorithm for creating bar chart animations.
+An tool for creating bar chart animations.
